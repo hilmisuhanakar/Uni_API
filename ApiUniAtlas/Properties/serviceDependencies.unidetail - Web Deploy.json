@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/uniatlas/databases/UniAtlas",
+      "type": "mssql.azure",
+      "connectionId": "UniAtlas",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

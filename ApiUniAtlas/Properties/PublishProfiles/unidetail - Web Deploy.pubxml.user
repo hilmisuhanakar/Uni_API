@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkLDXmchpO0Cf5qW/UFuvnAAAAAACAAAAAAAQZgAAAAEAACAAAAAOxeTUaBtPzr/yroZ86ynFNPfL1duE41QnGVXaKtnKbQAAAAAOgAAAAAIAACAAAACoz1WIQ79XUJolgKxh88PBCdgKgtxOL9M4SlHUS1nFKIAAAADsx6BT2ofp0vKiWIEh703KyTC9D1jMbsclo4mVpYzeQ8VteuW0NPGBUJtfdM4B75K8F5EpU3odYjwLZ/vUQ7zUOyjmPJxf9cBa2ZsNvbqYc4/uyCBPJk8Re2qnLz6CJ0HY7yWEvd3PFQhfZe0pSrmEHjrcpwSzQt6afPASecPA00AAAAAODft/bhJ9WeeXBu+asqdF3rriOLj1yWMRdLCaITTvoyxznKusutDijKsSzUrzYvsOY9ri+CVC6fdAaXK/exbr</EncryptedPassword>
+    <History>True|2021-06-11T19:10:35.7585650Z;True|2021-06-11T22:07:09.5369794+03:00;True|2021-06-07T23:40:54.1081035+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="UniAtlas">
+      <Value>Data Source=tcp:uniatlas.database.windows.net,1433%3bInitial Catalog=UniAtlas%3bUser Id=o20172013043%40uniatlas%3bPassword=BarBarya+627.</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

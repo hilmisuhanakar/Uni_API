@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-06-06T12:40:36.8935377Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-06-06T12:40:46.7266824Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "d07b9d5d-16cb-4c4a-80cc-980ca2ad84f9"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "UniAtlas"
+    }
+  }
+}
